@@ -11,3 +11,5 @@ I also enjoy going to the gym, playing soccer, and running.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![A cool coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJkbzA1a3E0MGw1NjZzdm8zazluZ3o0cThncm04dDVvbmFrcTNjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif)
