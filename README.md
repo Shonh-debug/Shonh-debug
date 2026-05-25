@@ -3,7 +3,7 @@
 Hi, I'm Shon! 
 
 I am a second year student attending the University of British Columbia in Vancouver. I am in a combined major of Computer Science and Statistics. 
-My passions in school include math, data science, and computer science. I love working out, running, learning new technologies, and working on new projects. I have an interest in data analytics for business purposes, machine learning, statistical modeling, and software development.
+My passions in school include math, data science, and computer science. I have an interest in data analytics for business purposes, machine learning, statistical modeling, and software development.
 
 I also enjoy going to the gym, playing soccer, and running.
 
