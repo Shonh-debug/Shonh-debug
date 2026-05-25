@@ -7,7 +7,6 @@ My passions in school include math, data science, and computer science. I have a
 
 I also enjoy going to the gym, playing soccer, and running.
 
-**I work with:**
 
 
 ## Tech Stack
