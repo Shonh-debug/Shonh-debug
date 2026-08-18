@@ -20,6 +20,7 @@ I also enjoy going to the gym, playing soccer, and running.
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
